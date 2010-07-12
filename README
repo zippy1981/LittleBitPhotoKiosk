@@ -1,0 +1,17 @@
+LittleBitPictureKiosk is a program meant to turn a machine running Windows XP
+or later into a picture taking kiosk. Its meant to be a cheap alternative to
+renting a dedicated picture booth. However, it could be developed into a piece
+of software that could run such a booth.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
